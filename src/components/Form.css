@@ -1,0 +1,352 @@
+.c6cba7ea1a17b4867cd47dcb85ea3e-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+}
+.form-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1088px;
+  opacity: 0.88;
+}
+.first-name {
+  position: absolute;
+  top: 242px;
+  left: 281px;
+  font-weight: 500;
+}
+.enter-your-first {
+  width: 510px;
+    height: 40px;
+  border: 0;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-6xl);
+  background-color: transparent;
+  position: absolute;
+  top: 291px;
+  left: 281px;
+  color: var(--color-gray);
+  text-align: justify;
+  opacity: 0.65;
+}
+.form-item {
+  position: absolute;
+  top: 340px;
+  left: 280px;
+  width: 518px;
+  height: 2px;
+  opacity: 0.65;
+}
+.last-name {
+  position: absolute;
+  top: 389px;
+  left: 281px;
+  font-weight: 500;
+}
+.enter-your-last {
+  width: 510px;
+    height: 40px;
+  border: 0;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-6xl);
+  background-color: transparent;
+  position: absolute;
+  top: 438px;
+  left: 281px;
+  color: var(--color-gray);
+  text-align: justify;
+  opacity: 0.65;
+}
+.form-inner {
+  position: absolute;
+  top: 487px;
+  left: 280px;
+  width: 518px;
+  height: 2px;
+  opacity: 0.65;
+}
+.jj-wwid {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.enter-your-jj,
+.frame-child {
+  position: absolute;
+  opacity: 0.65;
+}
+.enter-your-jj {
+  width: 510px;
+    height: 40px;
+  border: 0;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-6xl);
+  background-color: transparent;
+  top: 49px;
+  left: 0;
+  color: var(--color-gray);
+  text-align: justify;
+}
+.frame-child {
+  top: 98px;
+  left: -1px;
+  width: 518px;
+  height: 2px;
+}
+.jj-wwid-parent {
+  position: absolute;
+  top: 389px;
+  left: 1069px;
+  width: 516px;
+  height: 99px;
+}
+.email,
+.enter-your-email {
+  position: absolute;
+  left: 281px;
+}
+.email {
+  top: 536px;
+  font-weight: 500;
+}
+.enter-your-email {
+  width: 510px;
+    height: 40px;
+  border: 0;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-6xl);
+  background-color: transparent;
+  top: 585px;
+  color: var(--color-gray);
+  text-align: justify;
+  opacity: 0.65;
+}
+.vector-icon {
+  position: absolute;
+  top: 634px;
+  left: 280px;
+  width: 518px;
+  height: 2px;
+  opacity: 0.65;
+}
+.country-parent,
+.job-title-parent {
+  position: absolute;
+  top: 536px;
+  left: 1069px;
+  width: 516px;
+  height: 99px;
+}
+.country-parent {
+  top: 683px;
+  left: 281px;
+}
+.form-child1,
+.form-child2,
+.form-child3,
+.form-child4 {
+  position: absolute;
+  top: 253px;
+  left: 266px;
+  width: 154px;
+  height: 32.5px;
+}
+.form-child2,
+.form-child3,
+.form-child4 {
+  left: 1051px;
+}
+.form-child3,
+.form-child4 {
+  top: 399px;
+  left: 266px;
+}
+.form-child4 {
+  left: 1051px;
+}
+.form-child5,
+.form-child6,
+.form-child7,
+.form-child8 {
+  position: absolute;
+  top: 546px;
+  left: 266px;
+  width: 154px;
+  height: 32.5px;
+}
+.form-child6,
+.form-child7,
+.form-child8 {
+  left: 1051px;
+}
+.form-child7,
+.form-child8 {
+  top: 693px;
+  left: 266px;
+}
+.form-child8 {
+  left: 1052px;
+}
+.rectangle-button {
+  cursor: pointer;
+    border: 4px solid rgba(238, 37, 40, 0.8);
+    padding: 0;
+    background-color: #1B1F25;
+    position: absolute;
+    top: 917px;
+    left: calc(50% - 266px);
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(238, 37, 40, 0.25);
+    box-sizing: border-box;
+    width: 533px;
+    height: 85px;
+}
+.submit-next {
+  position: absolute;
+    top: 937px;
+    left: 839px;
+    font-size: 30px;
+    font-weight: 600;
+    color: #FFF;
+    text-align: justify;
+    font-family: Poppins;
+}
+.get2-1-icon,
+.untitled-1-2-icon1 {
+  position: absolute;
+  object-fit: cover;
+}
+.get2-1-icon {
+  top: 852px;
+    left: 700px;
+    width: 475px;
+    height: 96px;
+    opacity: 0.6;
+}
+.untitled-1-2-icon1 {
+  top: 29px;
+  left: 1741px;
+  width: 98px;
+  height: 98px;
+}
+.frame-select {
+  position: absolute;
+    top: 68px;
+    left: 0px;
+    /* width: 30px; */
+    /* height: 30px; */
+    width: 510px;
+    height: 40px;
+    border: none;
+    background-color: transparent;
+    font-size: 21px;
+    color: gray;
+}
+.form-child9,
+.region-parent {
+  position: absolute;
+  top: 242px;
+  left: 1069px;
+  width: 516px;
+  height: 99px;
+}
+.form-child9 {
+  top: 781px;
+  left: 1068px;
+  width: 518px;
+  height: 2px;
+  opacity: 0.65;
+}
+.select-your-team,
+.team {
+  position: absolute;
+  left: 1069px;
+}
+.team {
+  top: 683px;
+  font-weight: 500;
+}
+.select-your-team {
+  top: 732px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray);
+  opacity: 0.65;
+}
+.group-select {
+  position: absolute;
+    top: 744px;
+    left: 1066px;
+    opacity: 0.65;
+    width: 510px;
+    height: 40px;
+    border: none;
+    background-color: transparent;
+    font-size: 21px;
+    color: gray;
+}
+.na {
+  top: 358px;
+  left: 1533px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray);
+}
+.emea,
+.latam,
+.na {
+  position: absolute;
+}
+.emea {
+  top: 397px;
+  left: 1522px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray);
+}
+.latam {
+  top: 436px;
+  left: 1511px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.aspac,
+.johnson-johnson {
+  position: absolute;
+  color: var(--color-gray);
+}
+.aspac {
+  top: 478px;
+  left: 1515px;
+  font-size: var(--font-size-lg);
+}
+.johnson-johnson {
+  top: 110px;
+    left: calc(50% - 347px);
+    font-size: 29px;
+    font-weight: 500;
+    color: #1B1F25;
+    line-height: normal;
+}
+.px-johnson-and-johnson-logo-1-icon {
+  position: absolute;
+  top: 43.47px;
+  left: 114px;
+  width: 260px;
+  height: 47.02px;
+  object-fit: cover;
+}
+.form {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-7xl);
+  color: var(--color-crimson-100);
+  font-family: var(--font-poppins);
+}

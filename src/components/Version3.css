@@ -1,0 +1,398 @@
+.glow-2-icon {
+  position: absolute;
+  top: 2146px;
+  left: 0;
+  width: 1080px;
+  height: 1080px;
+  object-fit: cover;
+  opacity: 2.14;
+  mix-blend-mode: normal;
+}
+.version-3-child,
+.version-3-item {
+  position: absolute;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+.version-3-child {
+  top: 0;
+  background-color: var(--color-white);
+}
+.version-3-item {
+  top: 1080px;
+}
+.screenshot-2023-09-09-120300-1,
+.version-3-inner {
+  position: absolute;
+  top: 1079px;
+  left: 110px;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+}
+.screenshot-2023-09-09-120300-1 {
+  top: 2158px;
+  left: 960px;
+  width: 960px;
+}
+.sdf1-1-icon {
+  top: 242px;
+  left: 1284px;
+  width: 71px;
+  height: 77.62px;
+}
+.aws-car-1-icon,
+.o8-1-icon,
+.sdf1-1-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.o8-1-icon {
+  top: 734px;
+  left: calc(50% - 913px);
+  width: 1812px;
+  height: 1812px;
+  opacity: 0.04;
+}
+.aws-car-1-icon {
+  top: 453px;
+  left: 1763px;
+  width: 850px;
+  height: 850px;
+  display: none;
+}
+.aws-3-icon,
+.formula-1-234-1-icon,
+.icon {
+  position: absolute;
+  top: 364px;
+  left: 917px;
+  width: 820px;
+  height: 820px;
+  object-fit: cover;
+}
+.aws-3-icon,
+.formula-1-234-1-icon {
+  top: 507.19px;
+  left: 362px;
+  width: 600px;
+  height: 1065.74px;
+  display: none;
+}
+.aws-3-icon {
+  top: 120px;
+  left: 1052px;
+  width: 1080px;
+  height: 1080px;
+  opacity: 0.65;
+}
+.as-a-part {
+  position: absolute;
+  top: 575px;
+  left: 134px;
+  font-size: 26px;
+  color: var(--color-gray);
+  display: inline-block;
+  width: 799px;
+}
+.in-partnership-with {
+  margin: 0;
+}
+.in-partnership-with-container {
+  position: absolute;
+  top: 1447px;
+  left: 996px;
+  display: inline-block;
+  width: 777px;
+  margin: 0;
+    color: #FFF;
+    text-align: justify;
+    font-family: Poppins;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.party-1-icon,
+.yellow-party-1-icon {
+  position: absolute;
+  top: 40px;
+  left: 83px;
+  width: 700px;
+  height: 700px;
+  object-fit: cover;
+  display: none;
+}
+.yellow-party-1-icon {
+  top: 66px;
+  left: 109px;
+  width: 650px;
+  height: 650px;
+}
+.what-is-jj {
+  position: absolute;
+    top: 2385px;
+    left: 115px;
+    color: #EE2528;
+    text-align: justify;
+    font-family: Poppins;
+    font-size: 43px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.what-is-jj1 {
+  position: absolute;
+  top: 1362px;
+    left: 996px;
+    color: #FFF;
+    text-align: justify;
+    font-family: Poppins;
+    font-size: 43px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.ellipse-div {
+  position: absolute;
+  top: 1943px;
+  left: 134px;
+  border-radius: 50%;
+  background-color: var(--color-gray);
+  filter: blur(44px);
+  width: 370px;
+  height: 48px;
+  opacity: 0.9;
+}
+.participants-of-all {
+  position: absolute;
+  top: 2490px;
+  left: 115px;
+  font-size: 25px;
+  color: var(--color-gray);
+  display: inline-block;
+  width: 776px;
+}
+.awsss-2-icon {
+  position: absolute;
+  top: 1608px;
+  left: 108px;
+  width: 470px;
+  height: 470px;
+  object-fit: cover;
+  opacity: 0.9;
+}
+.rectangle-icon {
+  position: absolute;
+    top: -98.08px;
+    left: 62px;
+    width: 288px;
+    height: 236.08px;
+}
+.awsed-1-icon,
+.awssss-1-icon,
+.j-and-j-1-icon {
+  position: absolute;
+  top: -70px;
+  left: 83px;
+  width: 254px;
+  height: 287.67px;
+  object-fit: cover;
+}
+.awsed-1-icon,
+.awssss-1-icon {
+  top: 158.64px;
+  left: 1313px;
+  width: 670px;
+  height: 1190.08px;
+}
+.awsed-1-icon {
+  top: -67px;
+  left: -66px;
+  width: 1080px;
+  height: 1080px;
+  display: none;
+}
+.usa {
+  font-size: 18px;
+  color: #e1181c;
+}
+.get-ready,
+.new-jersey-usa-container {
+  position: absolute;
+  display: inline-block;
+}
+.new-jersey-usa-container {
+  top: 265px;
+  left: 1387px;
+  font-weight: 500;
+  text-align: left;
+  width: 425.45px;
+  height: 23.68px;
+  font-size: 16px;
+  color: #000;
+}
+.get-ready {
+  top: 203px;
+  left: 1236px;
+  font-size: 72px;
+  font-weight: 900;
+  font-family: var(--font-roboto);
+  color: var(--color-crimson);
+  width: 398px;
+  height: 221px;
+  opacity: 0.1;
+}
+.race-tracks-1-icon {
+  position: absolute;
+  top: 133px;
+  left: 1088px;
+  width: 528.08px;
+  height: 296.5px;
+  object-fit: cover;
+  opacity: 0.35;
+}
+.untitled-1-2-icon {
+  position: absolute;
+  top: 437px;
+  left: 1032px;
+  width: 167px;
+  height: 167px;
+  object-fit: cover;
+}
+.raceing-1-icon {
+  top: calc(50% - 1px);
+  left: calc(50% - 418px);
+  width: 1920px;
+  height: 1080px;
+  opacity: 0.65;
+}
+.raceing-1-icon,
+.side-1-icon,
+.sider-1-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.side-1-icon {
+  top: 2667px;
+  left: 1163px;
+  width: 610px;
+  height: 610px;
+  display: none;
+}
+.sider-1-icon {
+  top: 2600px;
+  left: 1173px;
+  width: 650px;
+  height: 650px;
+}
+.circuit-1-icon,
+.screenshot-2023-09-09-162550-1 {
+  position: absolute;
+  top: 3238px;
+  left: 1px;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+}
+.circuit-1-icon {
+  top: 2640px;
+  left: 197px;
+  width: 2228px;
+  height: 2228px;
+  opacity: 0.14;
+}
+.untitled-1-1-icon {
+  position: absolute;
+  top: 3284.79px;
+  left: 1002.98px;
+  width: 735.03px;
+  height: 735.03px;
+  object-fit: cover;
+}
+.where-code-meets {
+  position: absolute;
+  top: 4162px;
+  left: 85px;
+  font-size: 50.18px;
+  font-weight: 500;
+  display: inline-block;
+  width: 900px;
+  opacity: 0.1;
+}
+.presents {
+  position: absolute;
+  top: 3519px;
+  left: 312px;
+  font-size: 34.18px;
+  color: white;
+}
+.j-and-j-2-icon {
+  position: absolute;
+  top: 3366px;
+  left: 228px;
+  width: 314px;
+  height: 355.63px;
+  object-fit: cover;
+}
+.red-party-1-icon {
+  top: 3503px;
+  left: 85px;
+  width: 600px;
+  height: 600px;
+  mix-blend-mode: overlay;
+}
+.deep-1-icon,
+.jjts-1-icon,
+.red-party-1-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.jjts-1-icon {
+  top: 187.22px;
+  left: 11.5px;
+  width: 785px;
+  height: 500.68px;
+  display: none;
+}
+.deep-1-icon {
+  top: 213px;
+  left: 86px;
+  width: 740px;
+  height: 471.98px;
+}
+.frame-button {
+  cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: red;
+    position: absolute;
+    top: 4009px;
+    left: 1096px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(238, 37, 40, 0.25), 0 4px 20px rgba(27, 31, 37, 0.25);
+    width: 525px;
+    height: 77px;
+}
+.register-now {
+  position: absolute;
+  top: 4025px;
+  left: 1274px;
+  font-size: 30px;
+  font-weight: 600;
+  display: inline-block;
+  width: 199px;
+  color: white;
+}
+.version-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4318px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-24xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

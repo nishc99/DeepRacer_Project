@@ -1,0 +1,314 @@
+.assessment-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 127px;
+}
+.j-and-j-1-icon1,
+.untitled-1-2-icon2 {
+  position: absolute;
+  top: -30px;
+  left: 80px;
+  width: 254px;
+  height: 287.67px;
+  object-fit: cover;
+}
+.untitled-1-2-icon2 {
+  top: 29px;
+  left: 1741px;
+  width: 98px;
+  height: 98px;
+}
+.assessment-questions {
+  position: absolute;
+    color: #1B1F25;
+    top: 176px;
+    left: 80px;
+    font-size: 29px;
+    font-weight: 500;
+    opacity: 0.8;
+}
+.critical-thinking {
+  position: absolute;
+    top: 292px;
+    left: 96px;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    text-align: justify;
+}
+.use-cases-for {
+  margin-bottom: 0;
+}
+.use-cases-for-how-machine-lear {
+  margin: 0;
+  padding-left: var(--padding-14xl);
+  
+}
+.challenges-or-create {
+  margin-top: -6px;
+    margin-left: 32px;
+}
+.use-cases-for-container {
+  /* position: absolute;
+  top: 292px;
+  left: 1039px;
+  font-size: var(--font-inherit);
+  line-height: 29px;
+  font-weight: 500;
+  font-family: var(--font-inherit); */
+  position: absolute;
+    top: 292px;
+    left: 1054px;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    text-align: justify;
+}
+
+
+.python-programming-language-container {
+  position: absolute;
+    top: 671px;
+    left: 93px;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    text-align: justify;
+}
+
+.code-development-in-container {
+  position: absolute;
+    top: 671px;
+    left: 93px;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    text-align: justify;
+}
+
+.machine-learning-using-container{
+  position: absolute;
+    top: 671px;
+    left: 93px;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    text-align: justify;
+}
+.code-development-in-container,
+.python-programming-language-container {
+  top: 628px;
+  left: 1039px;
+}
+.python-programming-language-container {
+  top: 856px;
+}
+.in-effort-to,
+.please-provide-a {
+  position: absolute;
+  left: 467px;
+  font-weight: 500;
+  color: var(--color-crimson-100);
+  display: inline-block;
+  width: 1372px;
+}
+.in-effort-to {
+  top: 184px;
+  color: #EE2528;
+    text-align: justify;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.please-provide-a {
+  top: 210px;
+  color: #EE2528;
+    text-align: justify;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.definition {
+  font-weight: 600;
+}
+.definition-critical-thinking-container,
+.definition-machine-learning-container {
+  position: absolute;
+    top: 369px;
+    left: 115px;
+    display: inline-block;
+    color: #E1181C;
+    font-size: 19px;
+    width: 693px;
+}
+.definition-machine-learning-container {
+  top: 365px;
+  left: 1058px;
+}
+.definition-application-develo-container,
+.definition-python-is-container {
+  position: absolute;
+    top: 369px;
+    left: 115px;
+    display: inline-block;
+    color: #E1181C;
+    font-size: 19px;
+    width: 693px;
+}
+
+.definition-critical-thinking-container1 {
+  position: absolute;
+    top: 731px;
+    left: 115px;
+    display: inline-block;
+    color: #E1181C;
+    font-size: 19px;
+    width: 693px;
+}
+.definition-application-develo-container,
+.definition-python-is-container {
+  top: 688px;
+  left: 1058px;
+}
+.definition-python-is-container {
+  top: 915px;
+}
+.assessment-child4 {
+  position: absolute;
+    top: 585.75px;
+    left: 119px;
+    width: 683px;
+    height: 4.5px;
+    opacity: 0.6;
+}
+.assessment-child5 {
+  position: absolute;
+    top: 585.75px;
+    left: 1061px;
+    width: 683px;
+    height: 4.5px;
+    opacity: 0.6;
+}
+.assessment-child6 {
+  position: absolute;
+  top: 961.75px;
+  left: 116px;
+    width: 683px;
+    height: 4.5px;
+    opacity: 0.6;
+}
+
+.assessment-child7 {
+  position: absolute;
+  top: 810.75px;
+  left: 1061px;
+    width: 683px;
+    height: 4.5px;
+    opacity: 0.6;
+}
+.assessment-child8 {
+  position: absolute;
+  top: 1040.75px;
+  left: 1061px;
+    width: 683px;
+    height: 4.5px;
+    opacity: 0.6;
+}
+.scale-container {
+  position: absolute;
+  top: 926px;
+  left: 112px;
+  width: 693px;
+  height: 30px;
+  border: none;
+}
+.scale-parent {
+  position: absolute;
+    top: 556px;
+    left: 115px;
+    width: 693px;
+    height: 30px;
+    border: none;
+}
+
+.scale-group {
+  position: absolute;
+    top: 550px;
+    left: 1058px;
+    width: 693px;
+    height: 30px;
+    border: none;
+}
+/* .scale-container {
+  top: 919px;
+  left: 775px;
+} */
+
+
+.start-icon {
+  position: absolute;
+  top: 770px;
+  left: 1718px;
+  width: 30px;
+  height: 30px;
+}
+
+.scale-parent1 {
+  position: absolute;
+    top: 777px;
+    left: 1058px;
+    width: 693px;
+    height: 30px;
+    border: none;
+}
+
+.scale-parent2 {
+  position: absolute;
+    top: 1005px;
+    left: 1058px;
+    width: 693px;
+    height: 30px;
+    border: none;
+}
+/* .start-icon {
+  top: 998px;
+} */
+.start-icon {
+  height: 50%;
+  width: 83.33%;
+  top: 25%;
+  right: 8.33%;
+  bottom: 25%;
+  left: 8.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.start {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 983px;
+  left: 906px;
+  width: 54px;
+  height: 54px;
+}
+.assessment1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-lgi);
+  color: var(--color-gray);
+  font-family: var(--font-poppins);
+}

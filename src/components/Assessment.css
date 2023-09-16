@@ -1,0 +1,222 @@
+.assessment-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 143px;
+}
+.j-and-j-1-icon1,
+.untitled-1-2-icon1 {
+  position: absolute;
+  top: -24px;
+  left: 80px;
+  width: 254px;
+  height: 287.67px;
+  object-fit: cover;
+}
+.untitled-1-2-icon1 {
+  top: 24px;
+  left: 1741px;
+  width: 98px;
+  height: 98px;
+}
+.questions-related-to {
+  position: absolute;
+    top: 222px;
+    left: 80px;
+    font-size: 29px;
+    font-weight: 500;
+    opacity: 0.8;
+    text-align: justify;
+}
+.which-job-function {
+  margin: 7px;
+  /* color: #1B1F25; */
+    text-align: justify;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 759px;
+}
+.data-analysis-process-container,
+.which-job-function-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.data-analysis-process-container {
+  top: 93px;
+  left: 40px;
+  font-size: 21px;
+  color: #E1181C;
+  display: inline-block;
+  width: 693px;
+}
+.ellipse-input,
+.frame-child2,
+.frame-child3,
+.frame-child4,
+.frame-child5,
+.frame-child6 {
+  cursor: pointer;
+  position: absolute;
+  top: 100px;
+  left: 4px;
+  border-radius: 50%;
+  border: 3px solid var(--color-orange);
+  box-sizing: border-box;
+  width: 18px;
+  height: 18px;
+}
+.frame-child2,
+.frame-child3,
+.frame-child4,
+.frame-child5,
+.frame-child6 {
+  top: 130px;
+}
+.frame-child3,
+.frame-child4,
+.frame-child5,
+.frame-child6 {
+  top: 162px;
+}
+.frame-child4,
+.frame-child5,
+.frame-child6 {
+  top: 194px;
+}
+.frame-child5,
+.frame-child6 {
+  top: 226px;
+}
+.frame-child6 {
+  top: 258px;
+}
+.frame-child7 {
+  position: absolute;
+  top: 243.88px;
+  left: 102.5px;
+  width: 562.5px;
+  height: 2.25px;
+}
+.which-job-function-do-you-beli-parent {
+  position: absolute;
+  top: 332px;
+  left: 80px;
+  width: 848px;
+  height: 285px;
+}
+.how-comfortable-are {
+  margin-bottom: 0;
+  color: #1B1F25;
+    text-align: justify;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 759px;
+}
+.how-comfortable-are-you-with-t {
+  margin: 0;
+  padding-left: var(--padding-14xl);
+  
+}
+.how-comfortable-are-container {
+  position: absolute;
+  top: 332px;
+  left: 1007px;
+  font-size: var(--font-inherit);
+  font-weight: 500;
+  font-family: var(--font-inherit);
+}
+.very-comfortable-i-container {
+  position: absolute;
+  top: 425px;
+  left: 1047px;
+  font-size: 21px;
+  font-weight: 500;
+  color: #E1181C;
+  display: inline-block;
+  width: 693px;
+}
+.assessment-child1,
+.assessment-child2,
+.assessment-inner,
+.assessment-item {
+  cursor: pointer;
+  position: absolute;
+  top: 433px;
+  left: 1011px;
+  border-radius: 50%;
+  border: 3px solid var(--color-orange);
+  box-sizing: border-box;
+  width: 18px;
+  height: 18px;
+}
+.assessment-child1,
+.assessment-child2,
+.assessment-inner {
+  top: 463px;
+}
+.assessment-child1,
+.assessment-child2 {
+  top: 495px;
+}
+.assessment-child2 {
+  top: 527px;
+}
+.in-your-opinion-which-specifi-parent {
+  position: absolute;
+  top: 689px;
+  left: 80px;
+  width: 860px;
+  height: 285px;
+}
+.frame-child15 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #EE2528;
+  position: absolute;
+  top: 0;
+  left: calc(50% - 262.5px);
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(238, 37, 40, 0.25);
+  width: 525px;
+  height: 77px;
+}
+.submit {
+  position: absolute;
+    top: 16px;
+    left: 207px;
+    font-weight: 600;
+    font-size: 30px;
+    text-align: justify;
+    color: white;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 792px;
+  left: 1143px;
+  box-shadow: 0 4px 20px rgba(27, 31, 37, 0.25);
+  width: 525px;
+  height: 77px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+}
+.assessment {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray);
+  font-family: var(--font-poppins);
+}
